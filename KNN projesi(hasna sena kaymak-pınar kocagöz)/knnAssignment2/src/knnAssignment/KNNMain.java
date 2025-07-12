@@ -3,7 +3,7 @@ import java.util.List;
 
 public class KNNMain {
     public static void main(String[] args) {
-        String filePath = "C:\\Users\\Dell Precision\\Desktop\\dataset.csv";
+        String filePath = "DATASET.csv";
 
         // CSV Dosyasını Yükleme
         List<DataPoint> dataPoints = CSVLoader.loadCSV(filePath);
