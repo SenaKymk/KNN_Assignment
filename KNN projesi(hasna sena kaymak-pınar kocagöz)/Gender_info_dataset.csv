@@ -1,4 +1,4 @@
-Height (cm),Weight (kg),BMI	Shoulder Width (cm),Waist Circumference (cm),Voice Frequency (Hz),Hand Length (cm),Shoe Size,Gender
+Height (cm),Weight (kg),BMI,Shoulder Width (cm),Waist Circumference (cm),Voice Frequency (Hz),Hand Length (cm),Shoe Size,Gender
 186.56,58.08,16.69,37.85,74.22,183.81,24.29,43,1
 168.19,50.18,17.74,39.56,92.86,100.03,18.44,40,0
 168.65,96.84,34.05,49.63,92.04,221.62,16.76,45,0
